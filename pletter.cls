@@ -16,7 +16,7 @@
 \RequirePackage[left=2cm,right=2cm,top=5cm,bottom=1.69cm]{geometry}
 
 % Roboto fonts
-\RequirePackage[sfdefault]{roboto}
+\RequirePackage{cmbright}
 
 % Input incoding
 \RequirePackage[utf8]{inputenc}
