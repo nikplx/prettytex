@@ -18,7 +18,7 @@
 \subsectionfont{\normalsize\selectfont}
 
 \RequirePackage{titling}
-\pretitle{\begin{center}\bfseries\Large}
+\pretitle{\begin{center}\bfseries\large}
 \posttitle{\end{center}\vspace{2pt}}
 \preauthor{\begin{center}\footnotesize\begin{tabular}[t]{c}}
 \postauthor{\end{tabular}\end{center}\vspace{1pt}}
